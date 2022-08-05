@@ -1,0 +1,5 @@
+luceepass=password
+installdir=/opt/lucee
+startatboot=true
+installconn=true
+installiis=false
