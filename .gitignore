@@ -4,3 +4,5 @@
 /lessons/PathTraversal/private/log.txt
 
 /.vagrant/
+/src/web/WEB-INF/
+*.log
